@@ -125,7 +125,7 @@ defineEmits(["sendQuestion"]);
       </div>
     </div>
     <div class="w-screen text-center text-gray-600 text-xs md:text-sm">
-      所有内容均由泌尿外科大模型生成，其准确性和完整性无法保证，不代表我们的态度或观点
+      所有内容均由慧舍实训大模型生成，其准确性和完整性无法保证，不代表我们的态度或观点
     </div>
   </div>
   <!-- 上传语料弹窗 -->

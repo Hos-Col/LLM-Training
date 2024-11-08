@@ -25,19 +25,19 @@ const sendQuestion = (question: string) => {
         class="bg-gradient-to-r from-[#1e3b8ae0] to-[#0285c7e0] w-full h-full text-white flex flex-col justify-between p-6"
       >
         <h2 class="text-xl font-normal tracking-wide">
-          Hi,我是您的泌尿外科智能助手，我可以回答任何泌尿外科相关的问题。
+          Hi,我是您的慧舍实训智能助手，我可以回答任何慧舍实训相关的问题。
         </h2>
         <ul class="text-sm ml-4">
-          <li class="list-disc py-4">有关泌尿外科的介绍有哪些？</li>
-          <li class="list-disc py-4">泌尿外科的种类是哪些？</li>
-          <li class="list-disc py-4">如何使用智能数据辅助诊疗？</li>
+          <li class="list-disc py-4">有关慧舍实训的介绍有哪些？</li>
+          <li class="list-disc py-4">慧舍实训的种类是哪些？</li>
+          <li class="list-disc py-4">如何使用智能数据辅助慧舍实训？</li>
         </ul>
         <div class="pt-4 text-xs">
           <button class="px-3 py-2 rounded-xl mr-4 border border-white">
-            泌尿外科查询
+            慧舍实训查询
           </button>
           <button class="px-3 py-2 rounded-xl mr-4 border border-white">
-            泌尿外科智能分析
+            慧舍实训智能分析
           </button>
           <button class="px-3 py-2 rounded-xl mr-4 border border-white">
             常用报告撰写

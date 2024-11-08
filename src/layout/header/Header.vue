@@ -22,7 +22,7 @@ const logout = async () => {
   <header
     class="h-[60px] relative flex flex-wrap items-center justify-between text-center bg-[url('../src/assets/header.jpg')]"
   >
-    <img src="../../assets/title1.png" alt="" class="mx-auto h-[35px]" />
+    <img src="../../assets/title1.png" alt="" class="mx-auto h-[45px]" />
     <!-- <button
       class="md:hidden block absolute top-5 left-4"
       @click="isHistoryOpen = true"

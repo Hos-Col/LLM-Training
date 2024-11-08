@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref } from "vue"
-const words = ref(['泌尿外科', '人工智能', '智能语音', '大数据'])
+const words = ref(['慧舍实训', '人工智能', '智能语音', '大数据'])
 </script>
 <template>
  <div class="text-gray-700 text-xs lg:text-sm">
